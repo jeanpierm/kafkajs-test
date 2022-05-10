@@ -1,6 +1,6 @@
-# Apache Kafka test in node.js
+# KafkaJS test
 
-Simple test
+Simple test with Apacha Kafka in Node.js (TypeScript) with KafkaJS
 
 <img src="https://www.indellient.com/wp-content/uploads/2020/10/20201021_Introduction-to-Apache-Kafka_BLOG-FEATURED-IMAGE.jpg" width="320px"><img>
 
